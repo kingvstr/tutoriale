@@ -8,4 +8,4 @@
 echo "hello world";
 echo "diff";
 echo
-echo e
+echo 'fenzhi king'
