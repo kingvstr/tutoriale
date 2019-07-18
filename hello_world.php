@@ -9,3 +9,5 @@ echo "hello world";
 echo "diff";
 echo
 echo 'fenzhi king'
+echo e
+echo kingB
